@@ -1,0 +1,12 @@
+## Interface: 120000, 120001
+
+## Title: |cFFFFFFFFBlizz Buffs Masque|r
+## Notes: Integrates Blizzard's buff and debuff frames with Masque for custom theming.
+## Author: Fafnyir
+## Version: 1.0.0
+## Dependencies: Masque
+## LoadOnDemand: 0
+## IconTexture: Interface\AddOns\BlizzBuffsMasque\Logo\AddonLogo
+## X-Wago-ID: YK9Ey3KL
+
+BlizzBuffsMasque.lua
