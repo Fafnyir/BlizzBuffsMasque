@@ -1,6 +1,6 @@
 ## Interface: 120000, 120001
 
-## Title: |cFFFFFFFFBlizz Buffs Masque|r
+## Title: |cFF0070DDBlizz Buffs Masque|r
 ## Notes: Integrates Blizzard's buff and debuff frames with Masque for custom theming.
 ## Author: Fafnyir
 ## Version: 1.0.0
