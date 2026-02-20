@@ -7,6 +7,6 @@
 ## Dependencies: Masque
 ## LoadOnDemand: 0
 ## IconTexture: Interface\AddOns\BlizzBuffsMasque\Logo\AddonLogo
-## X-Wago-ID: YK9Ey3KL
+## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
 
 BlizzBuffsMasque.lua
