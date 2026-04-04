@@ -4,7 +4,7 @@
 ## Notes: Integrates Blizzard's buff and debuff frames with Masque for custom theming.
 ## Author: Fafnyir
 ## Version: 1.0.0
-## X-Wago-ID: 
+## X-Wago-ID: ZKxZmdNk
 ## Dependencies: Masque
 ## LoadOnDemand: 0
 ## IconTexture: Interface\AddOns\BlizzBuffsMasque\Logo\AddonLogo
