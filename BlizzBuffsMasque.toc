@@ -3,7 +3,7 @@
 ## Title: |cFF6600CCBlizz Buffs Masque|r
 ## Notes: Integrates Blizzard's buff and debuff frames with Masque for custom theming.
 ## Author: Fafnyir
-## Version: 1.0.0
+## Version: v1.0.1
 ## X-Wago-ID: ZKxZmdNk
 ## Dependencies: Masque
 ## LoadOnDemand: 0
